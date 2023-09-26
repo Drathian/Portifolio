@@ -26,6 +26,14 @@ article {
   display: flex;
   flex-direction: row;
 }
+.intro{
+    max-width: 50rem;
+}
+
+.plan{
+    max-width: 30rem;
+}
+
 ul > li,
 a {
   display: flex;
@@ -49,8 +57,8 @@ aside {
   font-style: italic;
   color: #29627e;
   position: relative;
-  right: 140px;
-  bottom: 25px;
+  left: 300px;
+  bottom: 100px;
 }
 aside > p {
   margin: 0.5rem;
