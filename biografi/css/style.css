@@ -10,6 +10,9 @@ body {
 header h1 {
   margin: 2rem;
 }
+h2 {
+  padding: 15px;
+}
 article {
   margin: 50px;
 }
@@ -26,12 +29,12 @@ article {
   display: flex;
   flex-direction: row;
 }
-.intro{
-    max-width: 50rem;
+.intro {
+  max-width: 50rem;
 }
 
-.plan{
-    max-width: 30rem;
+.plan {
+  max-width: 30rem;
 }
 
 ul > li,
@@ -63,6 +66,9 @@ aside {
 aside > p {
   margin: 0.5rem;
 }
+.extra {
+  padding-top: 9px;
+}
 footer {
   display: flex;
   background-color: rgb(0, 110, 255);
@@ -71,5 +77,5 @@ footer {
   color: white;
   width: 10rem;
   position: absolute;
-  bottom: 10px;
+  top: 110%;
 }
