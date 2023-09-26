@@ -51,7 +51,7 @@ a:hover {
   text-decoration: underline;
 }
 
-aside {
+.side-text {
   width: 40%;
   padding-left: 0.5rem;
   margin-left: 0.5rem;
@@ -63,7 +63,7 @@ aside {
   left: 300px;
   bottom: 100px;
 }
-aside > p {
+.side-text > p {
   margin: 0.5rem;
 }
 .extra {
