@@ -9,6 +9,8 @@ body {
 
 header h1 {
   margin: 2rem;
+  display: flex;
+  justify-content: center;
 }
 h2 {
   padding: 15px;
